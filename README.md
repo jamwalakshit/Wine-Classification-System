@@ -47,14 +47,7 @@ Wine-Classification-System/
 
 ---
 
-## 📊 Machine Learning Workflow
 
-1. Load Dataset
-2. Data Preprocessing
-3. Train Random Forest Classifier
-4. Evaluate Model
-5. Save Trained Model
-6. Deploy with Streamlit
 
 ---
 
@@ -75,41 +68,7 @@ Clone the repository:
 git clone https://github.com/yourusername/Wine-Classification-System.git
 ```
 
-Move into the project folder:
 
-```bash
-cd Wine-Classification-System
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the training script:
-
-```bash
-python train.py
-```
-
-Start the Streamlit application:
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Dashboard
-- Prediction Result
-- Feature Importance Chart
-
-inside the `screenshots` folder.
 
 ---
 
