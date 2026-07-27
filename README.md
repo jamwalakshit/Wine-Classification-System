@@ -27,50 +27,6 @@ An interactive Machine Learning web application that predicts the customer segme
 
 ---
 
-## 📂 Project Structure
-
-```
-Wine-Classification-System/
-│
-├── dataset/
-│   └── Wine.csv
-│
-├── model/
-│   └── wine_model.pkl
-│
-├── app.py
-├── train.py
-├── requirements.txt
-├── README.md
-└── screenshots/
-```
-
----
-
-
-
----
-
-## 📈 Model
-
-- Algorithm: Random Forest Classifier
-- Features: 13
-- Classes: 3 Customer Segments
-- Accuracy: 100% (on the held-out test split)
-
----
-
-## ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Wine-Classification-System.git
-```
-
-
-
----
 
 ## 👨‍💻 Developed By
 
